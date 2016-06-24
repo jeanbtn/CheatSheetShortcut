@@ -1,4 +1,6 @@
 div {display: inline-table;
 }
-h1 {text-align: center;
+h1 {text-align: center; background-color: red;
+}
+body {background-image: url("http://amalindacollection.com/wp-content/uploads/2012/02/ama-giraffe-pattern-vector-grey-cream-extra-large.jpg");
 }
