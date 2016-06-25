@@ -6,3 +6,5 @@ body {background-image: url("http://amalindacollection.com/wp-content/uploads/20
 }
 h2 {border: 1px solid black; border-radius: 10px;
 }
+ol {font-weight: bold;
+}
