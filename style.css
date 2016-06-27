@@ -1,0 +1,10 @@
+div {display: inline-table; /*Repositionnement des divisions*/
+}
+h1 {text-align: center; background-color: red; /*Alignement du texte au centre et couleur de fond de mon titre*/
+}
+body {background-image: url("http://amalindacollection.com/wp-content/uploads/2012/02/ama-giraffe-pattern-vector-grey-cream-extra-large.jpg");/*Image de fond du site (grey pattern)*/
+}
+h2 {border: 1px solid black; border-radius: 10px; /*Encadrement des titres de paragraphe*/
+}
+ol {font-weight: bold; /*Mettre en gras les listes*/
+}
